@@ -9,12 +9,17 @@
   - the uniqe title table shows that the most recent title for tetirment.
   - ritirng title shows that the majority of retirment age have senior title.
  Table 1.
+ 
+ 
  C:\Users\dawit\OneDrive\Desktop\Bearkly Boot Camp\Test\Pewlett-Hackard-Analysis\Data 2\retiring_titles.png
+ 
  
  -the mentorship eligibility table shows that the most of employee have senior title.
  Table 2.
  
+ 
   C:\Users\dawit\OneDrive\Desktop\Bearkly Boot Camp\Test\Pewlett-Hackard-Analysis\Data 2\Mentor_eligibility.png
+  
   
   # Conclusion
   
