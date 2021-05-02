@@ -11,7 +11,8 @@
  Table 1.
  
  
- C:\Users\dawit\OneDrive\Desktop\Bearkly Boot Camp\Test\Pewlett-Hackard-Analysis\Data 2\retiring_titles.png
+   https://github.com/Deving789/Pewlett-Hackard-Analysis/blob/master/retiring_titles.csv
+
  
   -the mentorship eligibility table 2 shows that the most of employee have senior title.
  
