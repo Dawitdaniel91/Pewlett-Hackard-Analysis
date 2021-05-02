@@ -11,16 +11,14 @@
  Table 1.
  
  
- https://github.com/Dawitdaniel91/Pewlett-Hackard-Analysis/blob/main/retiring_titles.csv
-  
+ C:\Users\dawit\OneDrive\Desktop\Bearkly Boot Camp\Test\Pewlett-Hackard-Analysis\Data 2\retiring_titles.png
  
- -the mentorship eligibility table shows that the most of employee have senior title.
+  -the mentorship eligibility table 2 shows that the most of employee have senior title.
+ 
  Table 2.
  
- 
-  C:\Users\dawit\OneDrive\Desktop\Bearkly Boot Camp\Test\Pewlett-Hackard-Analysis\Data 2\Mentor_eligibility.png
-  
-  
+   https://github.com/Dawitdaniel91/Pewlett-Hackard-Analysis/blob/main/Mentor_eligibility.png
+    
   # Conclusion
   
     Based on the results , most of senior emplyees retire with 10 years so the company should look for the recruite young employee to get some expossiors with the senior employees before retire most of the experianced senior empoyers. 
