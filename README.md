@@ -1,13 +1,16 @@
 # Pewlett-Hackard-Analysis
 # 1. Overview of the analysis:
 
-  The purpos of project is to determine the the number of retiring employee and eligible to participate in the mentership program.The results based on the emplyees of Pewlett-Hackard born between january 1,1952 and december 31, 1955.The analysis is by createing a qurry from the data emplyee table and tibtle table by retrivied the title, from_date and to_date column, and title table.join both of the table on by selecting the primary keys(empo_no), filter the data by birth date and put the information in new table.in delevery on created the unique title by using the DISTNICT ON function and used the order by count function to show total number by each title. The second delivery quary retrived column from empoyee and demp_emp table, filter the data of the current employe and the department table , filter the data by current employee born in 1965 then order the table by empo_no.
+The purpose of the project is to determine the number of retiring employees and eligible to participate in the mentorship program. The results are based on the employees of Pewlett-Hackard born between January 1, 1952, and December 31, 1955. The analysis is by creating a query from the data employee table and table by retrieving the title, from date and to date column, and title table. Join both tables by selecting the primary keys(empo_no), filtering the data by birth date, and putting the information in the new table.in delivery on created the unique title by using the DISTINCT ON function and used the order by count function to show the total number by each title. The second delivery query retrieved column from employee and demp_emp table, filter the data of the current employee and the department table, filter the data by current employee born in 1965 then order the table by empo_no.
   
 # 2. Results:
 
-  - The retirment title table shows us empoyee eligible for retirment and how long they work at each posion in the orginozation.
-  - the uniqe title table shows that the most recent title for tetirment.
-  - ritirng title shows that the majority of retirment age have senior title.
+  • The retirement title table shows us employees eligible for retirement and how long they work at each position in the organization.
+  
+  •	the unique title table shows that the most recent title for retirement.
+  
+  •	retiring title shows that the majority of retirement age have a senior title. 
+
  Table 1.
  
  
@@ -22,7 +25,8 @@
     
   # Conclusion
   
-    Based on the results , most of senior emplyees retire with 10 years so the company should look for the recruite young employee to get some expossiors with the senior employees before retire most of the experianced senior empoyers. 
- 
+    Based on the results, most of the senior employees retire with 10 years so the company should look for the recruit young employee to get some expressions with the senior employees before retiring most of the experienced senior employers. 
+
+
   
 
